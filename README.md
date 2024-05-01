@@ -6,10 +6,7 @@
   A Manager event app
 </p>
 
-<p align="center">
-  <img alt="ToDo App Screen" src="![image](https://github.com/APOLOWILKER/imHere/assets/78989862/843d0720-535e-4088-8a20-5bbaee13ad7b)
-" width="50%">
-</p>
+
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -17,6 +14,10 @@
   <a href="#author">Author</a>
 </p>
 
+
+<p align="center">
+  <img alt="ToDo App Screen" src="./.github/Screenshot_App.png" width="50%">
+</p>
 
 <p align="center">
   <img alt="Typescript Badge" src="https://img.shields.io/badge/Typescript-blue"/>
