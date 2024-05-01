@@ -6,9 +6,11 @@
   A Manager event app
 </p>
 
+<img src="![image](https://github.com/APOLOWILKER/imHere/assets/78989862/7738afcd-bdbf-4c90-bca1-80c77c24ba7d)
+" />
+
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-packages">Packages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#author">Author</a>
 </p>
