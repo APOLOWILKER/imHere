@@ -6,8 +6,10 @@
   A Manager event app
 </p>
 
-<img src="![image](https://github.com/APOLOWILKER/imHere/assets/78989862/7738afcd-bdbf-4c90-bca1-80c77c24ba7d)
-" />
+<p align="center">
+  <img alt="ToDo App Screen" src="![image](https://github.com/APOLOWILKER/imHere/assets/78989862/843d0720-535e-4088-8a20-5bbaee13ad7b)
+" width="50%">
+</p>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
